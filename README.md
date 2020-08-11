@@ -1,4 +1,4 @@
-# Node.js
+# [Node.js](https://github.com/ppambler/nodejs)
 
 > [教程](./resource.md)、[FAQ](./faq.md)
 
