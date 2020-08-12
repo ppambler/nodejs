@@ -8,6 +8,8 @@
 
 ➹：[Libuv初理解 - 掘金](https://juejin.im/post/6844903575441637383)
 
+➹：[V8 (JavaScript engine) - Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))
+
 ➹：[认识 V8 引擎 - 知乎](https://zhuanlan.zhihu.com/p/27628685)
 
 ➹：[JavaScript深入浅出第4课：V8引擎是如何工作的？](https://blog.fundebug.com/2019/07/16/how-does-v8-work/)
